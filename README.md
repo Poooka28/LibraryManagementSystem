@@ -1,8 +1,8 @@
-**Library Management Syste**m
+**Library Management System**
 
-This is a Java-based library management system that allows users to manage books, users, and book transactions.
+**This is a Java-based library management system that allows users to manage books, users, and book transactions.
 The system includes a login page for authentication and a menu-driven interface for interacting with the library functionalities.
-Demonstrated proficiency in Java programming and software design principles.
+Demonstrated proficiency in Java programming and software design principles.**
 --------------------------------------------------------------------------------------------------------------------------------------
 **Features**
 
@@ -50,13 +50,14 @@ After successful login, you'll be presented with the menu options.
 Choose an option by entering the corresponding number and follow the prompts to perform the desired operation.
 
 **5.Logout:**
-To exit the system, select option 0 from the menu.
+**To exit the system, select option 0 from the menu.**
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 **Requirements**
 
 ##Java Development Kit (JDK) installed on your system.
-##Basic knowledge of Java programming.
+
+**##Basic knowledge of Java programming.**
 -----------------------------------------------------------------------------------------------------------------------------------------
 **Contributing**
 
